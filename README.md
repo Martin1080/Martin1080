@@ -22,19 +22,14 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=fff) 
 ![Javascript](https://img.shields.io/badge/-JS-dbac00?style=for-the-badge&logo=JavaScript&logoColor=fff)
 
-
 #### Backend
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=fff) 
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=fff) 
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=fff) 
 
 #### Frontend
-![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=fff) 
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=fff) 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff) 
 ![SCSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff) 
-![BootStrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=fff) 
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff) 
+![React](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=fff) 
+![Flutter](https://img.shields.io/badge/-Flutter.js-61DAFB?style=for-the-badge&logo=flutter&logoColor=fff) 
 
 #### ETC
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=fff) 
