@@ -20,9 +20,9 @@
 ![CSS](https://img.shields.io/badge/-CSS-007bff?style=for-the-badge&logo=CSS&logoColor=fff)
 ![Javascript](https://img.shields.io/badge/-JS-dbac00?style=for-the-badge&logoColor=fff)
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logoColor=fff)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C&logoColor=fff) 
-![C#](https://img.shields.io/badge/-Cs-00599C?style=for-the-badge&logo=C&logoColor=fff) 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logoColor=fff) 
+![C#](https://img.shields.io/badge/-Cs-00599C?style=for-the-badge&logoColor=fff) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logoColor=fff) 
 
 
 #### Backend
