@@ -9,6 +9,10 @@
 
 [See More...](https://github.com/Martin1080?tab=repositories)
 
+### Activity
+
+![Martin1080's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=martin1080&&theme=merko)
+
 
 ### Github Status
 
@@ -18,8 +22,6 @@
 ### Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin1080&bg_color=30,000000,00ad14&title_color=fff&text_color=fff)
-
-![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
 
 
 ### Programming Languages
