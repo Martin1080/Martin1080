@@ -16,11 +16,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin1080&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/kiki7000/github-readme-stats)
 
 ### Programming Languages
+![Javascript](https://img.shields.io/badge/-JS-dbac00?style=for-the-badge&logo=JavaScript&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=fff) 
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=C&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C&logoColor=fff) 
 ![C#](https://img.shields.io/badge/-Cs-00599C?style=for-the-badge&logo=C&logoColor=fff) 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=fff) 
-![Javascript](https://img.shields.io/badge/-JS-dbac00?style=for-the-badge&logo=JavaScript&logoColor=fff)
 
 #### Backend
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=fff) 
@@ -30,9 +30,6 @@
 ![SCSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff) 
 ![React](https://img.shields.io/badge/-React-01bee4?style=for-the-badge&logo=react&logoColor=fff) 
 ![Flutter](https://img.shields.io/badge/-Flutter-01bee4?style=for-the-badge&logo=flutter&logoColor=fff) 
-
-#### ETC
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=fff) 
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiki7000)](https://solved.ac/kiki7000)
