@@ -16,9 +16,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin1080&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/kiki7000/github-readme-stats)
 
 ### Skills
-![HTML](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff) 
-![CSS](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff) 
-![Javascript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff) 
+![HTML](https://img.shields.io/badge/-HTML-ff4d00?style=for-the-badge&logo=CSS&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS-007bff?style=for-the-badge&logo=CSS&logoColor=fff)
+![Javascript](https://img.shields.io/badge/-JavaScript-dbac00?style=for-the-badge&logo=javascript&logoColor=fff) 
 ![C](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C&logoColor=fff) 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C&logoColor=fff) 
 ![C#](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C&logoColor=fff) 
