@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkiki7000&count_bg=%2371E1FF&title_bg=%23555555&icon=github.svg&icon_color=%2371E1FF&title=Users+Who+watched+this&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ### Projects
-+ [Discord.php](https://github.com/Martin1080/Discord.php) - An exapmle of fully working Discord Bot using discordPHP library
++ [Discord.php](https://github.com/Martin1080/Discord.php) - An exapmple of fully working Discord Bot using discordPHP library
 
 [See More...](https://github.com/kiki7000?tab=repositories)
 
