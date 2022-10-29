@@ -9,7 +9,7 @@
 
 ### Github Status
 
-[![Martin1080's github stats](https://github-readme-stats.vercel.app/api?username=martin1080&bg_color=20,000000,00ad14&title_color=fff&text_color=fff)
+![Martin1080's github stats](https://github-readme-stats.vercel.app/api?username=martin1080&bg_color=20,000000,00ad14&title_color=fff&text_color=fff)
 
 ### Top Languages
 
