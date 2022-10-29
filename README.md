@@ -34,10 +34,9 @@
 ![React](https://img.shields.io/badge/-React-01bee4?style=for-the-badge&logo=react&logoColor=fff) 
 ![Flutter](https://img.shields.io/badge/-Flutter-01bee4?style=for-the-badge&logo=flutter&logoColor=fff) 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiki7000)](https://solved.ac/kiki7000)
 
 ### Links
-+ [Github](https://github.com/kiki7000)
-+ [BaekJoon](https://www.acmicpc.net/user/kiki7000)
-+ [Stackoverflow](https://stackoverflow.com/users/13678229/kiki7000)
++ [Github](https://github.com/Martin1080)
++ [YouTube](https://www.youtube.com/Martin1080)
++ [Instagram](https://www.instagram.com/_.martin1080._/)
++ [Discord](https://discord.gg/zcKDV5q)
