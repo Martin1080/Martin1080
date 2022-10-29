@@ -18,8 +18,8 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=martin1080&bg_color=20,000000,00ad14&title_color=fff&text_color=fff" alt="rishavchanda" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin1080&bg_color=30,00ad14,000000&title_color=fff&text_color=fff" alt="rishavchanda" />
-<br>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/-Java-FF8000?style=for-the-badge&logo=java&logoColor=fff) 
