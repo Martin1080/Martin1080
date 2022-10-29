@@ -1,6 +1,6 @@
 # [Martin1080](https://martin10802.webnode.cz)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkiki7000&count_bg=%2371E1FF&title_bg=%23555555&icon=github.svg&icon_color=%2371E1FF&title=Users+Who+watched+this&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Martin1080](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%230C9C00&title_bg=%23000000&icon=monzo.svg&icon_color=%2313FF00&title=Martin1080&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ### Projects
 + [Discord.php](https://github.com/Martin1080/Discord.php) - An exapmple of fully working Discord Bot using discordPHP library
