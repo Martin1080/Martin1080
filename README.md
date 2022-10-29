@@ -21,6 +21,7 @@
 
 
 ### Programming Languages
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=fff) 
 ![Javascript](https://img.shields.io/badge/-JS-dbac00?style=for-the-badge&logo=JavaScript&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=fff) 
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=C&logoColor=fff)
