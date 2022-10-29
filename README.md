@@ -17,7 +17,7 @@
 ### Github Status & Current Streak
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=martin1080&bg_color=20,000000,00ad14&title_color=fff&text_color=fff" alt="rishavchanda" />
-<img align="center" src="https://streak-stats.demolab.com/?user=Martin1080&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&background=000000" alt="rishavchanda" />
+<img align="center" src="https://streak-stats.demolab.com/?user=Martin1080&theme=soft-green&date_format=j%20M%5B%20Y%5D&background=000000" alt="rishavchanda" />
 
 
 ### Top Languages
