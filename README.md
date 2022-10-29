@@ -13,9 +13,11 @@
 
 ![Martin1080's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=martin1080&&theme=merko)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+### Github Status & Top Languages
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=martin1080&bg_color=20,000000,00ad14&title_color=fff&text_color=fff" alt="rishavchanda" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin1080&bg_color=30,000000,00ad14&title_color=fff&text_color=fff" alt="rishavchanda" />
 
 
 ### Github Status
