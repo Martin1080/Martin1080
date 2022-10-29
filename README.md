@@ -24,6 +24,7 @@
 ![Java](https://img.shields.io/badge/-Java-FF8000?style=for-the-badge&logo=java&logoColor=fff) 
 ![Javascript](https://img.shields.io/badge/-JS-dbac00?style=for-the-badge&logo=JavaScript&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=fff) 
+![Arduino](https://img.shields.io/badge/-Arduino-3776AB?style=for-the-badge&logo=arduino&logoColor=fff) 
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=C&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C&logoColor=fff) 
 ![C#](https://img.shields.io/badge/-Cs-00599C?style=for-the-badge&logo=C&logoColor=fff) 
