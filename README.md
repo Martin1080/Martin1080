@@ -15,7 +15,7 @@
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin1080&bg_color=30,00ad14,000000&title_color=fff&text_color=fff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin1080&bg_color=30,000000,00ad14&title_color=fff&text_color=fff)
 
 
 ### Programming Languages
