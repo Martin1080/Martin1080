@@ -11,9 +11,9 @@
 
 [![Martin1080's github stats](https://github-readme-stats.vercel.app/api?username=martin1080&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/kiki7000/github-readme-stats)
 
-### Top Langs
+### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiki7000&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/kiki7000/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin1080&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/kiki7000/github-readme-stats)
 
 ### Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff) 
