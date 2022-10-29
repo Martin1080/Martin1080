@@ -5,7 +5,7 @@
 ### Projects
 + [Discord.php](https://github.com/Martin1080/Discord.php) - An exapmple of fully working Discord Bot using discordPHP library
 
-[See More...](https://github.com/kiki7000?tab=repositories)
+[See More...](https://github.com/Martin1080?tab=repositories)
 
 ### Github Status
 
