@@ -3,7 +3,6 @@
 
 # [Martin1080](https://martin10802.webnode.cz)
 
-[![Martin1080](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%230C9C00&title_bg=%23000000&icon=material-ui.svg&icon_color=%2313FF00&title=Martin1080&edge_flat=true)](https://hits.seeyoufarm.com)
 ![](https://komarev.com/ghpvc/?username=martin1080&style=flat-square&color=00ad14)
 
 ### Projects
