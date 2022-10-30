@@ -1,6 +1,5 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-
 <div align="center"> 
+<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
 <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/RAM-32GB-E22200.svg?&style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/Amd-Ryzen_9_5900X-E26300?style=for-the-badge&logo=amd&logoColor=white">
