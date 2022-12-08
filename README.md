@@ -17,7 +17,7 @@
 
 ### Activity
 
-![Martin1080's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=martin1080&&theme=merko&bg_color=000000&line=00ad14&point=066400)
+![Martin1080's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Martin1080&&theme=merko&bg_color=000000&line=00ad14&point=066400)
 
 
 ### Github Status & Current Streak
