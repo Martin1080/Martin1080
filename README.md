@@ -17,7 +17,7 @@
 
 ### Activity
 
-![Martin1080's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Martin1080&&theme=merko&bg_color=000000&line=00ad14&point=066400)](https://github.com/martin1080/github-readme-activity-graph)
+![Martin1080's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Martin1080&&theme=merko&bg_color=000000&line=00ad14&point=066400)
 
 
 ### Github Status & Current Streak
