@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/NVIDIA-RTX3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 </div>
 
-# [Martin1080](https://martin10802.webnode.cz)
+# [Martin1080](https://martin1080.great-site.net/)
 
 ![](https://komarev.com/ghpvc/?username=martin1080&style=flat-square&color=00ad14)
 
