@@ -30,7 +30,7 @@
 
 ### Top Languages
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin1080&bg_color=30,000000,00ad14&title_color=fff&text_color=fff" alt="top languages" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaa&bg_color=30,000000,00ad14&title_color=fff&text_color=fff" alt="top languages" /></p>
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/-Java-FF8000?style=for-the-badge&logo=java&logoColor=fff) 
@@ -62,8 +62,3 @@
   <a href="https://www.youtube.com/Martin1080" target="_blank"><img src="https://img.shields.io/badge/-YouTube-E22800?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/_.martin1080._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/zcKDV5q" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-
-
-
-![Snake animation](https://github.com/rogeri0-filho/rogeri0-filho/blob/output/github-contribution-grid-snake.svg)
- </div>
