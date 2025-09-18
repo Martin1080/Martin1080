@@ -21,17 +21,6 @@
 ![Martin1080's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Martin1080&&theme=merko&bg_color=000000&line=00ad14&point=066400)
 
 
-### Github Status & Current Streak
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=martin1080&bg_color=20,00ad14,000000&title_color=fff&text_color=fff" alt="rishavchanda" />
-<img align="center" src="https://streak-stats.demolab.com/?user=Martin1080&theme=soft-green&date_format=j%20M%5B%20Y%5D&background=000000" alt="rishavchanda" />
-
-  ##
-
-### Top Languages
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin1080&bg_color=30,000000,00ad14&title_color=fff&text_color=fff" alt="top languages" /></p>
-
 ### Programming Languages
 ![Java](https://img.shields.io/badge/-Java-FF8000?style=for-the-badge&logo=java&logoColor=fff) 
 ![Javascript](https://img.shields.io/badge/-JS-dbac00?style=for-the-badge&logo=JavaScript&logoColor=fff)
